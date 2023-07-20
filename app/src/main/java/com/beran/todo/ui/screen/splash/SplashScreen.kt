@@ -1,4 +1,4 @@
-//package com.beran.todo.ui.screen.splash
+package com.beran.todo.ui.screen.splash//package com.beran.todo.ui.screen.splash
 //
 //import android.content.res.Configuration.UI_MODE_NIGHT_YES
 //import androidx.compose.animation.core.animateDpAsState
